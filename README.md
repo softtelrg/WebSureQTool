@@ -36,6 +36,3 @@ EULA.md
 3. Download the sample workspace
 4. Run the Quick Start guide
 
-See:
-
-docs/quick-start.md
