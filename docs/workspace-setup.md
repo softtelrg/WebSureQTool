@@ -20,36 +20,28 @@ You may choose any location, but it is recommended to keep the workspace inside 
 
 A typical workspace may look like this:
 
-workspace
-│
-├── projects
-│   └── demoShop
-│       ├── project.json
-│       ├── suites
-│       └── data
-│
-├── drivers
-│   └── msedgedriver.exe
-│
-├── logs
-│
-└── reports
+workspace/
+
+├── projects/
+
+│   └── demoShop/            # Your automation project
+
+│       ├── project.json     # Project configuration
+
+│       ├── suites/          # YAML test suites
+
+│       └── data/            # CSV/JSON datasets
+
+├── drivers/
+
+│   └── msedgedriver.exe     # Browser automation drivers
+
+├── logs/                    # Real-time execution logs
+
+└── reports/                 # HTML & JUnit test reports
 
 ---
 
-## Folder Description
-
-projects  
-Contains all automation projects created in WebSureQTool.
-
-drivers  
-Contains browser drivers such as Edge WebDriver or ChromeDriver.
-
-logs  
-Stores execution logs generated when tests run.
-
-reports  
-Stores execution reports generated after test runs.
 
 ---
 
