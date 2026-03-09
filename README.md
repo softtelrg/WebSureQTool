@@ -28,3 +28,14 @@ WebSureQTool is proprietary software owned by SoftTelRG.
 By downloading, installing, or using WebSureQTool, you agree to the End User License Agreement (EULA).
 See:
 EULA.md
+
+## Getting Started
+
+1. Download the latest installer
+2. Install WebSureQTool
+3. Download the sample workspace
+4. Run the Quick Start guide
+
+See:
+
+docs/quick-start.md
