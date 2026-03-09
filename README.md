@@ -17,5 +17,15 @@ WebSureQTool: The Secure Automation Workspace for Dev &amp; QA. A local-first, d
 - [Quick Start](docs/quick-start.md)
 - [Troubleshooting](docs/troubleshooting.md)
 
-## Downloads
-Installer files will be published in the GitHub Releases section.
+## Download
+Latest release:
+https://github.com/softtelrg/WebSureQTool/releases/latest
+Download the Windows installer from the latest release page.
+File name example:
+WebSureQTool-1.0.0.msi
+
+## License / Terms
+WebSureQTool is proprietary software owned by SoftTelRG.
+By downloading, installing, or using WebSureQTool, you agree to the End User License Agreement (EULA).
+See:
+EULA.md
