@@ -1,4 +1,4 @@
-# WebSureQTool
+# WebSureQTool![Latest Release](https://img.shields.io/github/v/release/softtelrg/WebSureQTool)
 WebSureQTool: The Secure Automation Workspace for Dev &amp; QA. A local-first, database-less tool for Web UI &amp; API testing with 100% independent Java/C# code generation and zero vendor lock-in.
 
 ## What this repository contains
@@ -18,10 +18,9 @@ WebSureQTool: The Secure Automation Workspace for Dev &amp; QA. A local-first, d
 - [Troubleshooting](docs/troubleshooting.md)
 
 ## Download
-Latest release:
+Download the latest version of WebSureQTool from GitHub Releases.
 https://github.com/softtelrg/WebSureQTool/releases/latest
-Download the Windows installer from the latest release page.
-File name example:
+Example installer:
 WebSureQTool-1.0.0.msi
 
 ## License / Terms
